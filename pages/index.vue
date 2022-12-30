@@ -25,7 +25,7 @@ import InputComponent from "~/lib/InputComponent.vue";
   },
 })
 export default class Home extends Vue {
-  name = "world";
+  name = "rubens";
 
   /**
    * The text that is currently in the input field.
